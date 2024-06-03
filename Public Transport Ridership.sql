@@ -1,3 +1,6 @@
+-- Data obtained from https://data.gov.my/
+-- Verify using https://myrapid.com.my/bus-train/ridership/
+
 SELECT * FROM ridership_headline;
 
 ---- LRT KELANA JAYA
